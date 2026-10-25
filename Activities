@@ -1,0 +1,62 @@
+
+
+<!-- BMC 2027 Programme Section -->
+<section id="bmc-programme">
+  <h2>BMC Programme for 2027</h2>
+
+  <p>
+    A year of learning, competition and opportunity
+    for primary schools. Let us work together to raise
+    a generation of confident, knowledgeable and
+    responsible leaders.
+  </p>
+
+  <div class="programme-image">
+    <img
+      src="images/bmc-programme-2027.jpeg"
+      alt="Bright Minds Contest 2027 Programme"
+      loading="lazy"
+    >
+  </div>
+
+  <p class="programme-slogan">
+    One Year. Many Opportunities. A Brighter Future!
+  </p>
+</section>
+
+#bmc-programme {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#bmc-programme h2 {
+  color: #102a70;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+#bmc-programme p {
+  line-height: 1.7;
+  color: #333;
+}
+
+.programme-image img {
+  width: 100%;
+  max-width: 720px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.programme-slogan {
+  font-weight: bold;
+  color: #102a70 !important;
+  font-size: 20px;
+}
+
+
+
